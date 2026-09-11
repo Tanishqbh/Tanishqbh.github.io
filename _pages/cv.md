@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematic, Northeastern University, 2027 (expected)
+* B.S. in Computational Mathematics, University of California, Los Angeles, 2021
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Northeastern University, 2022-2026
+  * Graduate Research Assistant
+  * Advisor: [Prof. Jose Perea](https://www.joperea.com)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Lawrence Berkeleye National Laboratory, Summer 2023, 2024
+  * Intern @ Machine Learning and Analytics Division
+  * Mentors: [Dr. Dmitriy Morozov](https://www.mrzv.org/) and Dr. Arnur Nigmetov
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Northeastern Research Experience for Undergraduates, Summer 2025, 2026
+  * Graduate Student Mentor
+  * Advisor: [Prof. Calina Copos](https://calinacopos.github.io/)
   
-Skills
+Techincal Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* __Languages:__ Python, LaTeX
+* __Machine Learning Libraries:__ PyTorch, scikit-learn, PyG (PyTorch Geometric), NumPy, SciPy, GUDHI, Ripser
+* __Tools:__ Git, Linux, HPC / Slurm, Jupyter, Weights & Biases
 
 Publications
 ======
@@ -61,4 +54,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Northeastern Mathematics Graduate Student Seminar, Organizer, 2022-2024
+* Northeastern Mathematics Directed Reading Program, Founder & Organizer, 2022-2026
+* AMS Graduate Student Chapter @ Northeastern University, Treasurer, 2024-2026
